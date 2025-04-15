@@ -47,4 +47,4 @@ tag for each word in that sentence.
 
 • Develop a new model which overcome the shortcomings of baseline model.
 
-• Identify future scope to further optimise the model.
+• Identify future scope to further optimise the model
